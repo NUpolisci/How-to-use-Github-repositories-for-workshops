@@ -30,7 +30,7 @@ Open Rstudio and go to *File > New Project*. From there, select *Version Control
 
 Next, select *Git*. 
 
-![Git](Figures/Git.png){width=500px}
+![Git](Figures/git.png){width=500px}
 
 ![Clone](Figures/Clone.png){width=500px}
 
