@@ -26,7 +26,7 @@ To do so, go to the repository's landing page once again. In this case, it is ![
 
 Open Rstudio and go to *File > New Project*. From there, select *Version Control*. 
 
-![Version Control](Figures/Version Control.png)
+![Version Control](Figures/Version Control.png){width=500px}
 
 Next, select *Git*. 
 
