@@ -39,4 +39,4 @@ You can now paste the HTTPS you copied into the `Repository URL` line.
 
 <img src = "https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/blob/main/Figures/Paste.png" width ="600">
 
-Then click `Create Respository`. Your Rstudio will then open and all the files associated with the repository will appear under the files section of your Rstuido workspace (typically the lower right hand panel). 
+Click `Create Project`. Your Rstudio will then open and all the files associated with the repository will appear under the files section of your Rstuido workspace (typically the lower right hand panel). 
