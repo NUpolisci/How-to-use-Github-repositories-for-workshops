@@ -20,18 +20,18 @@ Basically, you must first you must make sure you have a Github account and that 
 
 To do so, go to the repository's landing page once again. In this case, it is ![here](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops). Once here, click on the green button which says `Code`. This time, instead of clicking `Download Zip`, you can copy the `HTTPS` (or `SSH`, but this requires you to set up SSH first). 
 
-![See purple box around image above](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/tree/main/Figures/Copied.png){width=500px}
+![See purple box around image above](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/Figures/Copied.png){width=500px}
 
 ### Connect with Rstudio
 
 Open Rstudio and go to *File > New Project*. From there, select *Version Control*. 
 
-![Version Control](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/tree/main/Figures/Version Control.png){width=500px}
+![Version Control](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/Figures/Version Control.png){width=500px}
 
 Next, select *Git*. 
 
-![Git](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/tree/main/Figures/git.png){width=500px}
+![Git](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/Figures/git.png){width=500px}
 
-![Clone](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/tree/main/Figures/Clone.png){width=500px}
+![Clone](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/Figures/Clone.png){width=500px}
 
-![Paste](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/tree/main/Figures/Paste.png){width=500px}
+![Paste](https://github.com/NUpolisci/How-to-use-Github-repositories-for-workshops/Figures/Paste.png){width=500px}
