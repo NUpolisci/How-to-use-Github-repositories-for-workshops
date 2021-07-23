@@ -32,4 +32,6 @@ Next, select *Git*.
 
 ![Git](Figures/Git.png){width=500px}
 
+![Clone](Figures/Clone.png){width=500px}
 
+![Paste](Figures/Paste.png){width=500px}
